@@ -205,11 +205,6 @@ hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
 metafile = true
 
 [[files]]
-file = "mods/chrysalis.pw.toml"
-hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
 metafile = true
