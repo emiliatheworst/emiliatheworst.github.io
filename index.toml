@@ -71,6 +71,11 @@ hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "c299f7b5b175dfbc71f748fbc6840e965d848d674d99fc9d633db4396f2cbf55"
 metafile = true
@@ -372,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -761,6 +766,11 @@ hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
@@ -843,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
 metafile = true
 
 [[files]]
