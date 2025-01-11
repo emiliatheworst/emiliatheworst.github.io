@@ -65,6 +65,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "f2a906455be5740ede1182c648f6f5330be3ac82f7a2cdb5ee0621ae234d14c5"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "1c03a3f5b5e061890585ecf6e41995fdc9c9b5081fff50cac3b3e9fd412c63dc"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
@@ -285,6 +295,16 @@ hash = "33dd378a7f5fea00272cd663d8ca33af66be20801778a668a51b636440366fc6"
 metafile = true
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
 metafile = true
@@ -312,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "0bfa93d487f91b526d83622245091b3fec1d27c1b5b241b75bb26ea8e04806a8"
 metafile = true
 
 [[files]]
@@ -365,6 +390,11 @@ hash = "111a6d377b7018a55415101c1db9674ba78eed6347de2670982e13906fd8742e"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7a53d620daca2a01628ea584be083bddd8c429aa6938f907b0faf6ec8dd0d3de"
 metafile = true
@@ -415,6 +445,11 @@ hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "dde7532c3f4c0a9320b52dadbded95c1a6c9248ac75fe94bc76bcb6c52c7a811"
+metafile = true
+
+[[files]]
 file = "mods/flan.pw.toml"
 hash = "f678dbeddfa25c6983e599aafdb4aa7698332c5138d9e8702acaa6d153dfa50c"
 metafile = true
@@ -427,6 +462,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "08a8521bff0674ad3d8fe73a68e44132177d9460436cd5c2527bc14f789618e3"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "df2d9dd49afc20e4b019cc11c5ab164b3e196a5455997abd51681e74d503ef27"
 metafile = true
 
 [[files]]
@@ -480,6 +525,11 @@ hash = "60d1e1f1fba15b867ad72395c302317d4a4803fe0fd59aa41c214c267c7d66de"
 metafile = true
 
 [[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "55e88bb28229bf0a4e114bc7a270297215206809029fbe2e517f1fb2af2d8e5a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "07ee8789977cb493de3d97bad5c91677c1d16086968e0ce070ed09cbcb854d3a"
 metafile = true
@@ -492,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -660,6 +715,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "00332560d0238312033f8af2cc830f6a550549a9b8fb90f61d26c7fba002a9da"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
@@ -677,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "413f0151d290945a1c0472161bd6ecb7aacec64d504e20cfd2f91c39bbfb1fc3"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "787932140acd5dbc084182b4da0cbcbfd20988f40c7d31bc3890063e9eb5c0bb"
 metafile = true
 
 [[files]]
@@ -725,6 +790,11 @@ hash = "427b0576ed62746ec9c38fdd03e1ec230ef65959eb7e5149b41a9762b6e20855"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "16c2e80412b85d3e889ee5d8d98424bc5be95dfe4224011b9754d8778599b371"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -757,6 +827,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "d7a97ddeaf584916f4e0fd729848e8e08c6b30076f8238f9255db077a1248a24"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "daddb2872c14e126b612f98ddcf7727a454400046a6ff31b8a440aedcbc88581"
 metafile = true
 
 [[files]]
@@ -860,6 +935,11 @@ hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "5f12c5aad75b4ec221a35836e4f2ceb8f3ac26dc075aff6480ccb474b45f8355"
+metafile = true
+
+[[files]]
 file = "mods/structure-pool-api.pw.toml"
 hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
 metafile = true
@@ -872,6 +952,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "848ba325cf9e9d1bb2e0d892e407ae68c44c014956a4f6a7da48fee94e5dd3e6"
 metafile = true
 
 [[files]]
@@ -962,6 +1047,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "8aac56ce3b9bfefe44b4bd78b095e0252095b53a200b3e4f1cd4239d43794629"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "a6614ca2d62be4bd9a6f98089c1a999f383d7a1d26ee057a8c8937d59129812e"
 metafile = true
 
 [[files]]
