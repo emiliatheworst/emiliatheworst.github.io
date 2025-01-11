@@ -170,6 +170,16 @@ hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
 
 [[files]]
+file = "mods/cc-drones.pw.toml"
+hash = "97f0ce4e8c784dad75ce331dc4433c31d9819b20764f8081b6d699b3c50ea14c"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e4295eaf6d67a0203c6410e4687b3e4340d84202e1cf751b231f283b5f801751"
+metafile = true
+
+[[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "400f0b0361b711181c6947583bea5b6585afedb1434877f1e1e44f45e72ac56d"
 metafile = true
@@ -707,11 +717,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "427b0576ed62746ec9c38fdd03e1ec230ef65959eb7e5149b41a9762b6e20855"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
