@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "0ea79b745dbceb7b5f505fbf962bdf3bbbb09c107e320c7a69769b170a44395f"
+
+[[files]]
+file = "index.html"
+hash = "298bf449d0ec8d1228419266a2f5ba87347b98db835522396f175b831e67e1e5"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "9aa5ebdf803d46de89cec36fbc208bda8e9eefc8bdace6bb9b9f924df5d0c6c4"
 metafile = true
@@ -448,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/hephaestus.pw.toml"
 hash = "2c822b9fdf6ce45c152b4dd74e24cb4fc25693839c7157898de9b0edbda7debf"
-metafile = true
-
-[[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "6dd9f0425d33c2c8b51a47c3e9f8f42d5339beff98e21911ef0797335ce63f30"
 metafile = true
 
 [[files]]
