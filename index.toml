@@ -1035,6 +1035,11 @@ hash = "521905ead5e05cd14e24e56e098fc49c62a5b7681f364ad2aad1f0d2526d8724"
 metafile = true
 
 [[files]]
+file = "mods/tpa++.pw.toml"
+hash = "a62ffcf4ed5399ad2cc58f04506aa63db065dd0a86817b5de714d554bbcadfdf"
+metafile = true
+
+[[files]]
 file = "mods/trample-no-more.pw.toml"
 hash = "74e8f54c450639833dafc4e78b15d5f6607374a24e029e465f4debb09e150ffe"
 metafile = true

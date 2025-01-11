@@ -1,0 +1,13 @@
+name = "TPA++"
+filename = "TPA++ - 1.6.0-1.20.x-UNTESTED-BETA-3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QuPbmyCQ/versions/mRuNJ4RO/TPA%2B%2B%20-%201.6.0-1.20.x-UNTESTED-BETA-3.jar"
+hash-format = "sha1"
+hash = "84350761abd0eef60f7c812e9327b05e3af3f087"
+
+[update]
+[update.modrinth]
+mod-id = "QuPbmyCQ"
+version = "mRuNJ4RO"
