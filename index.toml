@@ -675,6 +675,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "413f0151d290945a1c0472161bd6ecb7aacec64d504e20cfd2f91c39bbfb1fc3"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "93cdb5757b5fff47b6148cacf5889d52e1c5f508f87bf606496a1b28a1b74637"
 metafile = true
@@ -800,6 +805,11 @@ hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
@@ -832,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4d7f55435663621d7fe7ff1f5ed987866e16fcc0486f93dff6ee4a59ce07d24d"
 metafile = true
 
 [[files]]
