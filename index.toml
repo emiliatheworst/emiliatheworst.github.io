@@ -205,6 +205,11 @@ hash = "2d60a3dac1a7914a23887b81437b564e059513fbf8ffe0273f6099110485e4df"
 metafile = true
 
 [[files]]
+file = "mods/chrysalis.pw.toml"
+hash = "36890c7cebf455df60737facf2859592f2dbcf5bd4ee7b69b85d7ad6bfd19896"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
 metafile = true
@@ -385,6 +390,16 @@ hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
 
 [[files]]
+file = "mods/end-reborn.pw.toml"
+hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
+metafile = true
+
+[[files]]
+file = "mods/endercon.pw.toml"
+hash = "a9d0b3c2dd3ad7cbcd96617414962208173964ce5b7dd7f23ce6db4d665e8075"
+metafile = true
+
+[[files]]
 file = "mods/enderite-mod.pw.toml"
 hash = "111a6d377b7018a55415101c1db9674ba78eed6347de2670982e13906fd8742e"
 metafile = true
@@ -392,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
+metafile = true
+
+[[files]]
+file = "mods/ends-phantasm.pw.toml"
+hash = "2ed6379a705a63452feafb34f3afe7e4a52f99b0b8b34111cc1d8a479779fafb"
 metafile = true
 
 [[files]]
@@ -722,6 +742,11 @@ metafile = true
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "1e7a58f130da5101a68d77789d3afc8c366b382dc29c1fa366e09ec570920e98"
 metafile = true
 
 [[files]]

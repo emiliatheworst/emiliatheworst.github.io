@@ -1,0 +1,13 @@
+name = "Endercon"
+filename = "endercon-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wr1BCv8H/versions/BlQvD1sS/endercon-1.0.2.jar"
+hash-format = "sha1"
+hash = "38314a5011c1a1fedf45cbdc80c7a88247a2a1be"
+
+[update]
+[update.modrinth]
+mod-id = "wr1BCv8H"
+version = "BlQvD1sS"
