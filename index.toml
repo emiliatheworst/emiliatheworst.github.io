@@ -5,6 +5,14 @@ file = "README.md"
 hash = "0ea79b745dbceb7b5f505fbf962bdf3bbbb09c107e320c7a69769b170a44395f"
 
 [[files]]
+file = "gitattributes.txt"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
+file = "gitignore.txt"
+hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
+
+[[files]]
 file = "index.html"
 hash = "298bf449d0ec8d1228419266a2f5ba87347b98db835522396f175b831e67e1e5"
 
