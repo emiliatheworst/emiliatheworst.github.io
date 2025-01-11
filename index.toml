@@ -490,8 +490,8 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "7ddf3f34470f65d8ddf275d1009a029e1ff92949368efff2b38fd4c8ee658383"
+file = "mods/industrial-rezolution.pw.toml"
+hash = "b25cec5d60163ddb91fd95d2cbb387a3e6cae3cec5a23cc4fd1c760b8055d03e"
 metafile = true
 
 [[files]]
