@@ -1,12 +1,12 @@
 name = ":3pack"
 author = "emilia"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8f0836fc923d9b646c122888449b4b07576a04fa2cc30bd8dd1dd24ee28ff0c1"
+hash = "8dec304aef2fc4e733ac9add793571744f84e9d7e877f676e9713f48f7daa6c6"
 
 [versions]
 fabric = "0.16.7"
