@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "0ea79b745dbceb7b5f505fbf962bdf3bbbb09c107e320c7a69769b170a44395f"
-
-[[files]]
-file = "gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = "gitignore.txt"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
-file = "index.html"
-hash = "298bf449d0ec8d1228419266a2f5ba87347b98db835522396f175b831e67e1e5"
-
-[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "9aa5ebdf803d46de89cec36fbc208bda8e9eefc8bdace6bb9b9f924df5d0c6c4"
 metafile = true
