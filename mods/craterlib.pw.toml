@@ -1,0 +1,13 @@
+name = "CraterLib"
+filename = "CraterLib-Fabric-1.20-2.1.2+hotfix.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/EFb9tfNi/CraterLib-Fabric-1.20-2.1.2%2Bhotfix.1.jar"
+hash-format = "sha1"
+hash = "2300379f270d751dcfff8a612124ffd824ab649b"
+
+[update]
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "EFb9tfNi"

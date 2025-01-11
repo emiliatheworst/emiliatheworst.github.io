@@ -1,0 +1,13 @@
+name = ":3pack"
+author = "emilia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "50d214a4146c574f84fe004ed9b3033db49355e56f3ae99202503e90ba3e71d3"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.20.1"

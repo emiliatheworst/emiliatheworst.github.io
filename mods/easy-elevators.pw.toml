@@ -1,0 +1,13 @@
+name = "Easy Elevators"
+filename = "easyelevators-1.20.1-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3uQY8yaJ/versions/SgZzk059/easyelevators-1.20.1-1.2.jar"
+hash-format = "sha1"
+hash = "16097828491e39cea878c7ab68f62073ef23e87b"
+
+[update]
+[update.modrinth]
+mod-id = "3uQY8yaJ"
+version = "SgZzk059"

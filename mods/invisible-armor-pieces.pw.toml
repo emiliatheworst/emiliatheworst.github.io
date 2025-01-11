@@ -1,0 +1,13 @@
+name = "Invisible Armor"
+filename = "InvisibleArmor-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/idhf9CAv/versions/BMoxNrDX/InvisibleArmor-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "37b4ab3bcf10ef5a83b3ea18608b30b6986c831d"
+
+[update]
+[update.modrinth]
+mod-id = "idhf9CAv"
+version = "BMoxNrDX"

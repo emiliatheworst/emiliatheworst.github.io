@@ -1,0 +1,13 @@
+name = "The Ancient Trinkets Index [More Magic Series]"
+filename = "tatimod-0.0.9-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GAIa01Mz/versions/yAULMv74/tatimod-0.0.9-1.20.1.jar"
+hash-format = "sha1"
+hash = "f11ac3ca6697920d97a35bbcefb8bcf05bf2ebe5"
+
+[update]
+[update.modrinth]
+mod-id = "GAIa01Mz"
+version = "yAULMv74"

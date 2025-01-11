@@ -1,0 +1,13 @@
+name = "Better Trims"
+filename = "better-trims.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nwLnjlME/versions/6GgfjYmr/better-trims.zip"
+hash-format = "sha1"
+hash = "a18e60407f4cdacf71b1703af799bfb23a0fb0e5"
+
+[update]
+[update.modrinth]
+mod-id = "nwLnjlME"
+version = "6GgfjYmr"

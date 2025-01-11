@@ -1,0 +1,13 @@
+name = "Megane: Fabric"
+filename = "megane-fabric-20.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/oGKLI8RF/megane-fabric-20.1.2.jar"
+hash-format = "sha1"
+hash = "95514294bad07fd977eac9faaa5997c4961810bd"
+
+[update]
+[update.modrinth]
+mod-id = "ZNk5S5U6"
+version = "oGKLI8RF"
