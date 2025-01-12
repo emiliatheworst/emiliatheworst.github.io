@@ -910,11 +910,6 @@ hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
-file = "mods/sleep.pw.toml"
-hash = "da3d82d5b2ac490b66ae1cbe9b72272a47025bd3cf82e55cc5681381dff61a51"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
 metafile = true
@@ -1020,8 +1015,8 @@ hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
-file = "mods/timber-by-mycf-(server-side).pw.toml"
-hash = "0139ef2609233c4d8ee35c715e3a06eeb5f5c1b690a434f7658b9fd556c6565a"
+file = "mods/timber-strike.pw.toml"
+hash = "7286cec1c953991fcc98296cf0f66cdb026cd3115adf5d0e73702c856bc4ecf7"
 metafile = true
 
 [[files]]
