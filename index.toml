@@ -1020,6 +1020,11 @@ hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
+file = "mods/timber-by-mycf-(server-side).pw.toml"
+hash = "0139ef2609233c4d8ee35c715e3a06eeb5f5c1b690a434f7658b9fd556c6565a"
+metafile = true
+
+[[files]]
 file = "mods/tips.pw.toml"
 hash = "489975ca7640c2f9d92ac9a78018e0463a403532a413c8ef48c102b8b1f4b62b"
 metafile = true
@@ -1057,11 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "5b878bd72f494ac80ddca64ac47be81d77c3544cb0490a09f9b18698e4173762"
-metafile = true
-
-[[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "2f3085d8ca835f6afecfd6978e5b20f0bd9beeb12a0902b5c01e12f8afa1ae96"
 metafile = true
 
 [[files]]
