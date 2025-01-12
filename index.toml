@@ -650,6 +650,11 @@ hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
+metafile = true
+
+[[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
