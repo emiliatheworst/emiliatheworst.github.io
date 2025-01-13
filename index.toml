@@ -385,6 +385,36 @@ hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "0c3c85967808550cd2fcc3de024342ac79c3b6c73484ad040b11a2e3347a2275"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "4929fcbb728d50a2f49c47a6754335259d5337564e9e8ae480281dc1f662955d"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "0326f90e469344f2ca0ae026c31631497755cb52aa1dddcfc66c82e7748e0622"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "2ad35d1b513308d702e9fe45f3c711d63dd1abb8fcbbb40d9a1d7c37d4d5d367"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
+metafile = true
+
+[[files]]
 file = "mods/emuno.pw.toml"
 hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
@@ -427,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/epherolib.pw.toml"
 hash = "cf6fa7f55668b32838a07c13c5c094be1b0c4218c587ebdca4977fd85db16e5c"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "a822c628af8202734ff60c8d8674211965db934c29b0589ba3d86038063ca5a8"
 metafile = true
 
 [[files]]
@@ -502,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e1d70fa741150af4f6b090b7fdcafe3606087942b19cdafd6c0fe9e8e5565946"
 metafile = true
 
 [[files]]
@@ -597,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "5164b6479e76b5c202f6125a76199c477ae9a0022a7e7b48e12505b64576af4d"
 metafile = true
 
 [[files]]
@@ -892,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "9de1ee6b883e261423c0571044bf0cb1c07c5f580e528e1a84e93f0a7c4b082b"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "6799b3e8cc9351dd5ffd130883a227170db1272f099d1077e8e4d2f4592a85ca"
 metafile = true
 
 [[files]]
