@@ -60,6 +60,11 @@ hash = "219ccfa7b22bff4af2420c122620740b83e2ce614265efa2e01556c8a0a76afd"
 metafile = true
 
 [[files]]
+file = "mods/archers.pw.toml"
+hash = "616f08ac2b9ec995dfbb3c7799abf6396c5a8b32a51e00a781bcc8cc60378df1"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/athena.pw.toml"
 hash = "0010a7d77197b9013617872691ee7f359b66a10496c2bc0d8ed4aa059db02dc2"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "8fc1f594220597d48211568b52ab9f12055c6af2fb12b735f32e902703e4bffd"
 metafile = true
 
 [[files]]
@@ -490,6 +500,11 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
+file = "mods/fakerlib.pw.toml"
+hash = "9f2d48ac1a0c6f4f58360a4084a3748ffac3f1963601a11f3722f0df3053a3a8"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "aff1418fc38e909ba58c4ad864cdb8a7850b56dd854b9e20334e0abd0e3610dd"
 metafile = true
@@ -880,6 +895,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "f811a02944223f535532a839386962dd8708e2aed1037ce6081968e67a2932d3"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -960,6 +980,16 @@ hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "382d9d82b859a302f9b593c0f2f5aa2ed14a8ae032d9c772b491a25e7b4a2de1"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
@@ -967,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
 metafile = true
 
 [[files]]
@@ -1002,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "4d7f55435663621d7fe7ff1f5ed987866e16fcc0486f93dff6ee4a59ce07d24d"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "8d9ebb44bfa4fa850877c974b452910ed488fcd7827efe199bbb3b4e3d8120a7"
 metafile = true
 
 [[files]]
@@ -1155,6 +1195,11 @@ hash = "ce7c73a1474b0316c4e182b4c53a0d7edcaaa56a656eb90348f1d6734a11e5eb"
 metafile = true
 
 [[files]]
+file = "mods/wizards.pw.toml"
+hash = "ecfda063bff490288fcaa79731926129ca8382e1ca9b07ec6b301ddd910c7b23"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
@@ -1247,6 +1292,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "7a21a418843066092a28002b4477318809a837368b20c68b985cf339859261eb"
+metafile = true
+
+[[files]]
+file = "mods/zenith-attributes.pw.toml"
+hash = "d460669bfb18d8156b6d2636d32be3bf1f0e4e6dda75ad218261dc8c965b0902"
+metafile = true
+
+[[files]]
+file = "mods/zenith.pw.toml"
+hash = "ebcf3de35577c218bcb9214c23c73ae5913e493fba4dbffe04601b3467d58b67"
 metafile = true
 
 [[files]]
