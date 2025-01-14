@@ -1300,16 +1300,6 @@ hash = "7a21a418843066092a28002b4477318809a837368b20c68b985cf339859261eb"
 metafile = true
 
 [[files]]
-file = "mods/zenith-attributes.pw.toml"
-hash = "d460669bfb18d8156b6d2636d32be3bf1f0e4e6dda75ad218261dc8c965b0902"
-metafile = true
-
-[[files]]
-file = "mods/zenith.pw.toml"
-hash = "ebcf3de35577c218bcb9214c23c73ae5913e493fba4dbffe04601b3467d58b67"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-trims.pw.toml"
 hash = "fa2ad4d52bb3088529f7342f49fe7676674c3f0ef21d92ec6fc1d196bcaacf13"
 metafile = true
