@@ -700,6 +700,11 @@ hash = "455608abc9e99130ece17e243f4cb857357923acfd508c0caa98cbcd120d7360"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "6ddcd0fc3f9c53f064f1deb0f6c5898324249e22f4526ad3c7b910d7d16b8def"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -782,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
