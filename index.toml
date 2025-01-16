@@ -395,6 +395,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "52c352ab67527da90d25e2c3be2013fc65f1fdf8f56c16964abf55da4c5f4ac8"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
 metafile = true
@@ -870,6 +875,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "a50f8c5b3eff24d230425afd2bae4f4a77da4ea857bff80f8320563b2b9b54da"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -1055,6 +1065,16 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "e7df183183bf109d46b85ae43ba1528b01d7b096ed52f3e7287e4584d035b1a5"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e79fb17a4772d75a95f8c1fce0684988f4ca6ffcf24706ec71ca11fa4d5ed663"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
@@ -1082,6 +1102,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "5f12c5aad75b4ec221a35836e4f2ceb8f3ac26dc075aff6480ccb474b45f8355"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
 metafile = true
 
 [[files]]
@@ -1202,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "8aac56ce3b9bfefe44b4bd78b095e0252095b53a200b3e4f1cd4239d43794629"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "2c27fa315f6a06c0c56b12151417d5b3c2f6f1a551b881ffa3a54f010c63956c"
 metafile = true
 
 [[files]]
