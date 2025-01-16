@@ -20,6 +20,11 @@ hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "cc5ec503b0d0c5a15d409e5c90df1c2c3b1d2db92d8d486a96b04f6fd353df71"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "cc9a58a0199de02b4fea7ccc8171ac4a1201f58bf7d327a66348d6b738e74267"
 metafile = true
 
 [[files]]
