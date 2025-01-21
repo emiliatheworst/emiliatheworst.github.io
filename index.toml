@@ -810,6 +810,11 @@ hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "7360de6463f20c08edaeff169419707f24c3ad7359e147fd717dedc70fd1c111"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "c7661b5d6c42931a09b1c64c86d489b58f0c8624ae4ba636ace206c875d89437"
 metafile = true
