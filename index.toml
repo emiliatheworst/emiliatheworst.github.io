@@ -695,6 +695,11 @@ hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "424ec31aec85a288c85f101fd5f05c8b02bffbb0215d7e1c06502538139278e8"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -1017,6 +1022,11 @@ metafile = true
 [[files]]
 file = "mods/revelationary.pw.toml"
 hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
 
 [[files]]
