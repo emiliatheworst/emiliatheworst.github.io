@@ -20,8 +20,23 @@ hash = "32d8577e634fc4084a8e3bcd1171ed1921580a020efeea2f52fe8b4a8580cade"
 metafile = true
 
 [[files]]
+file = "mods/ae2-better-villagers.pw.toml"
+hash = "4d23c1efb1fcf52c806d1166cd16020287433417f40061a31285eededcf756c6"
+metafile = true
+
+[[files]]
 file = "mods/ae2-emi-crafting.pw.toml"
 hash = "b754342449d8c7d9bcc7cd7f425dd0bd29fb22431529b8238e62e94de412ba04"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "e5e2a6211343c0b61976d046cf64dad7953ad65991a61cecc926714a44ccc7ee"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "19dd1080dfa5713d668580cf851aef90a8f2f49bbc2ab156be288fce64f1006b"
 metafile = true
 
 [[files]]
@@ -485,6 +500,11 @@ hash = "cf6fa7f55668b32838a07c13c5c094be1b0c4218c587ebdca4977fd85db16e5c"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "a822c628af8202734ff60c8d8674211965db934c29b0589ba3d86038063ca5a8"
 metafile = true
@@ -582,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "ce32d8b4c3dce5b957678b6db62316ad998d20b39bf1d5d0a9110fc390296d69"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "588748702783f4d0128453db7bbf18e11b373ca854bbeded43584575920c0c33"
 metafile = true
 
 [[files]]
@@ -840,6 +865,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/merequester.pw.toml"
+hash = "53faa690c0eecc98870a5d785cb1772e1f37eabf9a3ee0beebfc53641abade05"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "00332560d0238312033f8af2cc830f6a550549a9b8fb90f61d26c7fba002a9da"
 metafile = true
@@ -976,12 +1006,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "3185fd9b2b5e4895e6fbfe4fb4b682bcccb7848392d11358a75dcfce8dc8114f"
+hash = "a1a46b085bd95632cb041d1cfbe6f0c6ff614edab2856217df5195ea472a7aa9"
 metafile = true
 
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
-hash = "d7a97ddeaf584916f4e0fd729848e8e08c6b30076f8238f9255db077a1248a24"
+hash = "85cae3c368c0405f81d078a73a0857f5da1db8f7a027658ab9607944ff8f225e"
 metafile = true
 
 [[files]]
