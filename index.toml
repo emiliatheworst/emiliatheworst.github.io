@@ -665,6 +665,11 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "7780c92a7cc9d48ca548cb3fb875bccf26a18fbf42456a6a059a86526e662cb1"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
 metafile = true
@@ -892,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "020c457eee3a752be52370413f066cd0591bf992bae127b20ea04522b394a60e"
 metafile = true
 
 [[files]]
