@@ -910,11 +910,6 @@ hash = "00332560d0238312033f8af2cc830f6a550549a9b8fb90f61d26c7fba002a9da"
 metafile = true
 
 [[files]]
-file = "mods/mine-treasure.pw.toml"
-hash = "e4fb78c18a6aa5a50ecfd897a5a40a5a80dc5b9b7aef1009cb1a2bb6d07c6b0e"
-metafile = true
-
-[[files]]
 file = "mods/minecells.pw.toml"
 hash = "8e8b282e7b3dbdf2a1cdb1f5cc24ce7fb2eecf727d5a662febeecaa0153d3d96"
 metafile = true
