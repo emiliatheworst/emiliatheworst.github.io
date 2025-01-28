@@ -490,6 +490,11 @@ hash = "edb584b444f78f30e28988dbc075c14402c141b256eedbedd965d7020c5218b8"
 metafile = true
 
 [[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "6066239a7cd50eb1eb2013729e08f60a24296eebefc2f20de5543bfc5337446a"
+metafile = true
+
+[[files]]
 file = "mods/endercon.pw.toml"
 hash = "a9d0b3c2dd3ad7cbcd96617414962208173964ce5b7dd7f23ce6db4d665e8075"
 metafile = true
@@ -1332,6 +1337,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "315b4cd48761c791250d313c91f1e5e5d170b3b3f62612288400f34f04913ab2"
 metafile = true
 
 [[files]]

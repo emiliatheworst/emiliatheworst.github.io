@@ -1,0 +1,13 @@
+name = "Ender Zoology"
+filename = "EnderZoology-v8.0.3-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/cGuAidm3/EnderZoology-v8.0.3-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "729e5c8c61c434b3f476a779c97889777b9b1402"
+
+[update]
+[update.modrinth]
+mod-id = "CUQhzQjg"
+version = "cGuAidm3"
