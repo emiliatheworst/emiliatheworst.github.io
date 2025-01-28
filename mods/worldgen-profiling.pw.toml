@@ -1,0 +1,13 @@
+name = "Worldgen profiling"
+filename = "worldgen-profiling-1.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y00RtANs/versions/ZNjVnTCN/worldgen-profiling-1.3.1.jar"
+hash-format = "sha1"
+hash = "2f294390b45fc686729689023bf167c23db7237b"
+
+[update]
+[update.modrinth]
+mod-id = "Y00RtANs"
+version = "ZNjVnTCN"

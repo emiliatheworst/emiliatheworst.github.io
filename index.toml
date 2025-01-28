@@ -1385,6 +1385,11 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
+file = "mods/worldgen-profiling.pw.toml"
+hash = "d7ecaec8135cf26c6bbf8e30dd2a7c6a7ee85f3eccbd63a117973e5446f4f10d"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "5cf47017a744e8f5726ef7131343be22cb9417c75810cc1d29bf9ca6eb8c8550"
 metafile = true
