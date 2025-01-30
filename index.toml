@@ -365,6 +365,11 @@ hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
 metafile = true
 
 [[files]]
+file = "mods/creeper-fireworks-mod.pw.toml"
+hash = "415911fd04a3fda8aed4dbf91bff233aadebc88af5a04ebd21b96037189983ec"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true

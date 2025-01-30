@@ -1,0 +1,13 @@
+name = "Creeper Fireworks Mod"
+filename = "creeperfireworks-1.20.1-1.0.0.6-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RdiVEh3O/versions/gS3kNKMz/creeperfireworks-1.20.1-1.0.0.6-FABRIC.jar"
+hash-format = "sha1"
+hash = "614d40cb8d6b884edbdd6593552473ee3458442e"
+
+[update]
+[update.modrinth]
+mod-id = "RdiVEh3O"
+version = "gS3kNKMz"
