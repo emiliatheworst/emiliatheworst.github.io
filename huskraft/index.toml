@@ -161,11 +161,6 @@ hash = "94918d5613a4e0e8490b7e19b575f7b4843d8557889d71b6bfd54641dcbc0205"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "3702c3e7708f3d0686ede91c8368afbba1f80c1fd1db12d594a090c050996ace"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "c299f7b5b175dfbc71f748fbc6840e965d848d674d99fc9d633db4396f2cbf55"
 metafile = true
@@ -427,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/create-food.pw.toml"
 hash = "07bccff9013248eaa4eebee672530eb709120e0e39fae232ff0f45242f850279"
-metafile = true
-
-[[files]]
-file = "mods/create-oxidized.pw.toml"
-hash = "1bc091bf541009ee6b8201f2195fe3bf42aabe12bdc26e069537c44f3a207692"
 metafile = true
 
 [[files]]
