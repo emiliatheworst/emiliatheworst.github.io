@@ -166,6 +166,11 @@ hash = "3702c3e7708f3d0686ede91c8368afbba1f80c1fd1db12d594a090c050996ace"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "c299f7b5b175dfbc71f748fbc6840e965d848d674d99fc9d633db4396f2cbf55"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
@@ -353,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "591de5571dc9237dbbbdd3100b1fce1b94c380282122069e92d0216d0e88a7c8"
-metafile = true
-
-[[files]]
-file = "mods/continue.pw.toml"
-hash = "a9e7a98919cc5b61885846303987033f401a77d87afca1b7ab873298e28a92d2"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "c9297ce4f2d18b77e8ce81e94796f8b7e793f59f319cc574271e6e16980e23d1"
+hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
@@ -437,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "210a2ac7359605a83b8601e29fb8a16ea15420db1b2f70ae068941d12daf9f50"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "d475bec9205c4d449195c219026853c05d468cf6897dd5e0b1c797df4411f5b0"
 metafile = true
 
 [[files]]
@@ -493,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/displaycase.pw.toml"
-hash = "9ca4479db87600826ebc8428992b165a77b9f361d0465a95d02cc77782d2fc89"
+hash = "eb74ec42ed67d4661bda3b0ef50c813edfe123263ca78d03dafa5ed8421ef366"
 metafile = true
 
 [[files]]
@@ -606,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "17ce7e84b5d57f4794774be5828ba35206f877bbe66424e2bcbcc9f6a909fc73"
+hash = "74743095e794dfbc8d63134396c709a63faefb61b6b55dcad9c2f777c360c7b8"
 metafile = true
 
 [[files]]
@@ -631,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c784cee4a8eed3f2b36172b8c5a119a62a28880d15e7f169947c935bf3bf4bb3"
+hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
 metafile = true
 
 [[files]]
@@ -675,7 +680,7 @@ hash = "c265e3eee5371fe953d24823998df5acc23e4adfb1ee28b5b3d9a7102e7e6069"
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "52dcc986ee0c1a17ed22f69bf0ac5908069bc33e42cace5dae58dc8c551cd626"
+hash = "31cd9b39f38befed65a8607df20ab6f5e3f43cdf260829d7fc56e400fad12924"
 metafile = true
 
 [[files]]
@@ -704,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "8c4c38f087d572b41e9bef14631e9b481c4be6336835555a96ad7ec28f212cca"
+hash = "b00e16909d95c4869f8847a0852deef66c436cb21fe9c8fa9f04cc64dbaba473"
 metafile = true
 
 [[files]]
@@ -1152,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "62d685e001957b2f677675df77e3d96be4ba9ce28cd19b286dc7b386a5b472b0"
+hash = "483be62aef095c69f8fc3e6f0b56ee6d024378e371fb032e9b7c332b63c2a357"
 metafile = true
 
 [[files]]
