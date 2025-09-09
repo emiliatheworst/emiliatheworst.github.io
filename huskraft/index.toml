@@ -1062,12 +1062,13 @@ hash = "cd050be690b2634679b27db3d3792555f0a8878429760db78272837d5487d821"
 metafile = true
 
 [[files]]
-file = "mods/polyeng-fabric-0.1.1-1.20.1.jar"
-hash = "093b0d6fac47b0531bc205a0e5f1ad0934579ad5b6d9b4e12b560b5c44ad4ede"
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "91a34cb72ff22aaf1e12d1741782b73af9ad179255d9156b7c2c7a5f878ba1ce"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "221913231d34a73b25353292089f06980660ad20a23dfbe9b3f0fcb881cb85f8"
 metafile = true
 
 [[files]]
