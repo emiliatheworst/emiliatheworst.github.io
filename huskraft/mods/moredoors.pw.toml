@@ -1,0 +1,13 @@
+name = "More Doors"
+filename = "More-Doors-1.20.2-1.6-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a6c42afe1fdbf30280dea6030529c4457754518"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5470016
+project-id = 498747

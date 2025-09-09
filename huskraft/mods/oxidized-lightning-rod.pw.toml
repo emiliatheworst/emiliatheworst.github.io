@@ -1,0 +1,13 @@
+name = "Oxidizing Lightning Rods"
+filename = "oxirods-1.20.1-7-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd3943b5dd3dbf16884e1980fc0e22967c19cf4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4946735
+project-id = 575313

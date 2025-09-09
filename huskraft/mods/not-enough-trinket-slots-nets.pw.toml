@@ -1,0 +1,13 @@
+name = "Not Enough Trinket Slots (NETS)"
+filename = "NETS_0.3.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "729968e98f417b447301a37ace4aee17ff7da9ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4658825
+project-id = 667376

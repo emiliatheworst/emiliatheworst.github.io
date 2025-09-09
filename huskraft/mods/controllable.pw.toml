@@ -1,0 +1,13 @@
+name = "Controllable"
+filename = "controllable-fabric-1.20.1-0.21.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ec5832a91d7651192aacfc38adf93e7df492c2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6171420
+project-id = 317269

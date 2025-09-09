@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-fabric-12.43.0-c2edce2453-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e468a3400533cebaeedcdfc376db61efb032e7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6980024
+project-id = 1096649

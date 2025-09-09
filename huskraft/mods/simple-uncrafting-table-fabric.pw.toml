@@ -1,0 +1,13 @@
+name = "Simple Uncrafting Table"
+filename = "UncraftingTable-fabric-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78e42f94e703a0d8070683e4ab1a831e00336a58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6624410
+project-id = 523423
