@@ -1206,10 +1206,6 @@ hash = "356a264757b1b5d0eda01c8c09ec7dd40062e93003d1e5ee027d3215eef2e0ce"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.20.1-3.23.4.4.105.jar"
-hash = "c96a83a65f352f16b23f92c2778aee1a289b810e8a791f0e1628383bf847356c"
-
-[[files]]
 file = "mods/sophisticatedcore-1.20.1-1.2.7.7.156.jar"
 hash = "e37f5638c3e1fc24c611314d3e2c9ee138704731fb51010cc987829b203873b3"
 
