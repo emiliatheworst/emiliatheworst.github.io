@@ -204,11 +204,6 @@ file = "mods/betterp2p-1.5.0-fabric.jar"
 hash = "cf77163bb492499fcd7011401f997bbb5c0c40082ef21284ec50e5fd319ab3a6"
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-fabric.pw.toml"
-hash = "49cb5cf47febed6213ef2b523ad51d9cb349c1aa45fd221c731c5034bb985cae"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
 metafile = true
@@ -1349,10 +1344,6 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "4208b682ff7512da07a0d9b0d786efd8fc4753fab3100d54bf4ceb1feeb956da"
 metafile = true
-
-[[files]]
-file = "mods/waystones-fabric-1.20.1-14.1.17.jar"
-hash = "c52b67d815020c393df2c645ce8323c112cad6e1fdabbcb709e7ba87c2c33b6b"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
