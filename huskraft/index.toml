@@ -995,6 +995,11 @@ file = "mods/moyai-1.20-2.0.2-fabric.jar"
 hash = "a8b04b2b9bd167809d491a9023fccb6cf1fdf80501cc2def374bc29a938c9af9"
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "a50f8c5b3eff24d230425afd2bae4f4a77da4ea857bff80f8320563b2b9b54da"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "b852615d05a8e25c2a84af3443e25fcd46e7a0d996ddbf3c0c860928846f1f40"
 metafile = true
@@ -1213,6 +1218,16 @@ file = "mods/sophisticatedstorage-1.20.1-1.3.5.4.126.jar"
 hash = "8786ce41ccfa292bf412d8c15762c31f02d5528c7cf3e2b9d6e08b9d3e152b42"
 
 [[files]]
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "e6423fc9694b01c194d6dcda7df0d690caafcee4b7872e885e72160add5924f5"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e79fb17a4772d75a95f8c1fce0684988f4ca6ffcf24706ec71ca11fa4d5ed663"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
@@ -1390,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "eac5d5405a7020336980c31c15aab41e0a8fd6881f53deca8ad07c247e968206"
+hash = "1e7c0b60cc5339659a26a280de84cc0bf99fb2efe466c81956342f514d68b02a"
 metafile = true
 
 [[files]]
