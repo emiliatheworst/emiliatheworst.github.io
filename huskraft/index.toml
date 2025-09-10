@@ -1218,8 +1218,8 @@ file = "mods/sophisticatedstorage-1.20.1-1.3.5.4.126.jar"
 hash = "8786ce41ccfa292bf412d8c15762c31f02d5528c7cf3e2b9d6e08b9d3e152b42"
 
 [[files]]
-file = "mods/sound-physics-perfected.pw.toml"
-hash = "e6423fc9694b01c194d6dcda7df0d690caafcee4b7872e885e72160add5924f5"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "8f2e3ffc4ecd1e80999882046b6787c1d75602038687049fb34dc66d988c29a2"
 metafile = true
 
 [[files]]
