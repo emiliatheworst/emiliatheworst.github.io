@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
@@ -1387,6 +1387,11 @@ hash = "b3644a8d64a40717e7353a0042dffc6fbe7596484095d6e0d830d45493ab40b0"
 [[files]]
 file = "mods/worldgen-profiling-1.3.1.jar"
 hash = "ee0718e7588040f7f4cc3c6b60b177394813986643110a022898e455ba7ff9a9"
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "6f1f0073a8d6c8a88006b8788a6e79ef61c5eb7520da533cf18a4a150b763845"
+metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
