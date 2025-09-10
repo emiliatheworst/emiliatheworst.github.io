@@ -1379,11 +1379,6 @@ file = "mods/world-host-0.5.2+1.20.1-fabric.jar"
 hash = "b3644a8d64a40717e7353a0042dffc6fbe7596484095d6e0d830d45493ab40b0"
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
 file = "mods/worldgen-profiling-1.3.1.jar"
 hash = "ee0718e7588040f7f4cc3c6b60b177394813986643110a022898e455ba7ff9a9"
 
