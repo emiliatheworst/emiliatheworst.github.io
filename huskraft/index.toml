@@ -694,6 +694,11 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "7bd50f9e121e66862fbfb48da10ec96ef5671fe24dd85367830632273c08efc2"
+metafile = true
+
+[[files]]
 file = "mods/fix-keyboard-on-linux-1.0.1.jar"
 hash = "1e2789b89e4d2acf3893812e51099c3af6560bfa22f4ae7f07fa8e6b1af1f525"
 
@@ -774,11 +779,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "0788537b03122131065eb41556a2cadb4660b2ba7cd2567b7ac85d209876c218"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
@@ -1475,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks-fabric.pw.toml"
 hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-nether.pw.toml"
+hash = "8e7f8cbff84a57f5a762ea3aea81b12f7aab5f103ce275e67b68278feeb06a10"
 metafile = true
 
 [[files]]

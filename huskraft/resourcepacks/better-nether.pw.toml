@@ -1,0 +1,13 @@
+name = "Better nether"
+filename = "Better Nether.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8LwB8itI/versions/MJl4c2vb/Better%20Nether.zip"
+hash-format = "sha1"
+hash = "78fd4d88cad14ba69865558745bef0776b47087c"
+
+[update]
+[update.modrinth]
+mod-id = "8LwB8itI"
+version = "MJl4c2vb"
