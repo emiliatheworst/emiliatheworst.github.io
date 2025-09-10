@@ -1,0 +1,13 @@
+name = "Invisible Armor"
+filename = "InvisibleArmor+v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SZVt9Fyc/versions/ytxYSZJE/InvisibleArmor%2Bv1.1.zip"
+hash-format = "sha1"
+hash = "ca25d83c46caaa0fe9943d47f4915956cc291b2a"
+
+[update]
+[update.modrinth]
+mod-id = "SZVt9Fyc"
+version = "ytxYSZJE"

@@ -209,6 +209,11 @@ hash = "49cb5cf47febed6213ef2b523ad51d9cb349c1aa45fd221c731c5034bb985cae"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "378902308a0915f183dc6b28178aa8c387606a1de225bcbbf07785f99fd5e0a5"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "0775ebf35cb927cbd0a70c3aeb2cb0969ee305f1a7e79ee774747ef0ceffd518"
 metafile = true
@@ -338,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ff2c734786c306f7e415c78c90fa35bc603ff525a2d3e9babac59abfd7fe245a"
+hash = "464e55d46ac4c3a6c9fb91c0d913050ce18e3aa1181ec0aa760ca598c62c69e0"
 metafile = true
 
 [[files]]
@@ -450,6 +455,11 @@ hash = "dba9170e7ac21633fa71073d3da6b691d45d32c412fb2e70d872cffb20e5fd0f"
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
 metafile = true
 
 [[files]]
@@ -602,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "74743095e794dfbc8d63134396c709a63faefb61b6b55dcad9c2f777c360c7b8"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
 metafile = true
 
 [[files]]
@@ -762,6 +777,11 @@ hash = "0788537b03122131065eb41556a2cadb4660b2ba7cd2567b7ac85d209876c218"
 metafile = true
 
 [[files]]
+file = "mods/incendium.pw.toml"
+hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "60adfc1ee75f10a7290e18f3e2b82601a3d3915db0c53dabe08dd17daf1c7d76"
 metafile = true
@@ -799,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "910fa36384741dbc199805f0afde8f5ef06940d1a74d1d737b7bc1048c58916f"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
 metafile = true
 
 [[files]]
@@ -1082,6 +1107,11 @@ hash = "20521e393f63698e5606091f61e936cb83b73e69b03f5f55a4714aafe43fbd0e"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
+metafile = true
+
+[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "32ffd5bd8c13596cc2533e383ac2e53b361cab8a4b334c19c0ecac81c3163524"
 metafile = true
@@ -1189,7 +1219,7 @@ hash = "8786ce41ccfa292bf412d8c15762c31f02d5528c7cf3e2b9d6e08b9d3e152b42"
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
@@ -1198,13 +1228,28 @@ hash = "e989e34d0b7350a7b3c3087c25ac9755d0e725e35a9b27b24adb16056601abb1"
 metafile = true
 
 [[files]]
+file = "mods/spell-power.pw.toml"
+hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "82530e4a36467769c5a8761f4c1c037124d0529ad43c19f47edab11da06c3ed4"
 metafile = true
 
 [[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
+metafile = true
+
+[[files]]
 file = "mods/styled-player-list.pw.toml"
 hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
 metafile = true
 
 [[files]]
@@ -1252,6 +1297,11 @@ hash = "b45567da0b3a992bc7e80a447d57709b4afce4e0d52adeb0d9495f84a2052ef2"
 metafile = true
 
 [[files]]
+file = "mods/tool-leveling.pw.toml"
+hash = "b48462a82e275eb0aeb3e44b5270a1f357810fd1fdcc5b1b572ff1283bb8f26b"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
 metafile = true
@@ -1277,12 +1327,12 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "81616d4497a861461df0ef3bb5dc068ac68b89aeff23c0ca5fcbdf1d3be91bd6"
+hash = "fb79296cbd2a9baa4f31a8664dff569e2490f14ea0334a82bcd3935d568d1471"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
@@ -1327,6 +1377,11 @@ metafile = true
 [[files]]
 file = "mods/world-host-0.5.2+1.20.1-fabric.jar"
 hash = "b3644a8d64a40717e7353a0042dffc6fbe7596484095d6e0d830d45493ab40b0"
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
 
 [[files]]
 file = "mods/worldgen-profiling-1.3.1.jar"
@@ -1420,4 +1475,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks-fabric.pw.toml"
 hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
+metafile = true
+
+[[files]]
+file = "resourcepacks/invisible-armor.pw.toml"
+hash = "9063f1656055acd0ffaa100425c5b68871a0e3bbd8772e11248e0ec88e5adbcf"
 metafile = true
