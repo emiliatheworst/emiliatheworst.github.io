@@ -147,7 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "ce9ffbe43febde9316a5264f9bc8250fe77de948485949251067d12ad6fe4b9a"
 metafile = true
 
 [[files]]
