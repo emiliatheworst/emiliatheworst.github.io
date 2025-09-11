@@ -274,6 +274,11 @@ hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
 metafile = true
 
 [[files]]
+file = "mods/caduceus.pw.toml"
+hash = "bc10528b0f0b0308bc4bfb1eb6c15451da406f28c8d95ed7b3d111820d5fc108"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "c652306fdcbb41d5acb22b625217b0ab31e4d8e36d61411ba74008c829046d11"
 metafile = true
@@ -358,6 +363,11 @@ hash = "64e8819c575f4df670de740013ea6cd7b184f6fd08606098b82ed3a70b78b605"
 [[files]]
 file = "mods/completeconfig.pw.toml"
 hash = "df5f2b8c3894cbfa6b21b2eb4ee9fd0320776a8c4ce1de6b57433db3b50ee6d0"
+metafile = true
+
+[[files]]
+file = "mods/complex-hex.pw.toml"
+hash = "7deff0eada2fe367cf5d47b8f48ace87d6af8baa4044b1e1be0491d9088bb866"
 metafile = true
 
 [[files]]
@@ -512,6 +522,11 @@ hash = "296c7ea4c05bd5aacc283675f61fbb5d4f047c64d819e48f86e9cf65e5d8a75f"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "43f477c4e79c55347f9cae8805fd8097b3c79afea83c47aa82b9059366f25b94"
 metafile = true
@@ -618,6 +633,10 @@ metafile = true
 file = "mods/entityculling.pw.toml"
 hash = "74743095e794dfbc8d63134396c709a63faefb61b6b55dcad9c2f777c360c7b8"
 metafile = true
+
+[[files]]
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
 file = "mods/epherolib.pw.toml"
@@ -762,6 +781,47 @@ hash = "2191748d6ec536fc3d9ee9c7f420a2cb89819176f91124b8dfbdae6bcb05e2e9"
 metafile = true
 
 [[files]]
+file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
+hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+
+[[files]]
+file = "mods/hexcassettes-2.0.0.jar"
+hash = "70775194c63b1219c4e153e7c2c712efb1a25693b7d189d6ce34957945118987"
+
+[[files]]
+file = "mods/hexcasting-fabric-1.20.1-0.11.2.3-SpellCircle.jar"
+hash = "dceae4cced759186418226e4633a35fd1005664450734d9a62117aa49c393dd9"
+
+[[files]]
+file = "mods/hexchanting.pw.toml"
+hash = "551b3d384d4bbb2915a75b1e9e94ced6121643a1cec9186887859a6eee1e251a"
+metafile = true
+
+[[files]]
+file = "mods/hexical-2.0.0.jar"
+hash = "df5d9219ebab095ef9efadae9cd38db3293352c1eee43c7f97b387f13917c822"
+
+[[files]]
+file = "mods/hexodus.pw.toml"
+hash = "62b3bb27578fafd17c6dba935eac153a17f9d267f7d7be718ed8844e9fb411ac"
+metafile = true
+
+[[files]]
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
+
+[[files]]
+file = "mods/hexpose.pw.toml"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+metafile = true
+
+[[files]]
+file = "mods/hierophantics.pw.toml"
+hash = "92a559a56fa350b6c7267eb1969c329e3bdb5dd25b3c67a49c48dd254b81228a"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 hash = "a44c64e39706c66623564e4d54af4e5e227da0513bc1064c5074c1dc255c5e68"
 metafile = true
@@ -804,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "1430ed11f29647b17b91f4824c692790f26cf657fe0285eac569ddcc2d26447e"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "2754c3da3ef6a69e1237c6edeb636de8571814f264e97cc74f656e356d5720cf"
 metafile = true
 
 [[files]]
@@ -996,6 +1061,10 @@ hash = "432a879feb5239d949969f92b91b4b38c007e52c7b0bfd3f1d9668dfcd99938d"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
+hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "1b4f637283c0c4e87d642641338dee78b0357b97fbc62fe69911cee8d0b557dc"
 metafile = true
@@ -1058,6 +1127,10 @@ hash = "584595e1158cb5fdc21c551f16cb8572437f3bd0e356a8583e3ce12124e29427"
 metafile = true
 
 [[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-mixincrashfix.jar"
+hash = "ae0c63d3e6d168000cd045e2779902e5fffd18502d9e7d27a89faadfe89ab760"
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "7536a88d4bc98d753d59b95bc097d2f0970fa0c0b0243ab83eaf426cb0abb471"
 metafile = true
@@ -1065,6 +1138,10 @@ metafile = true
 [[files]]
 file = "mods/optigui-2.3.0-beta.6.1-modrinth+1.20.jar"
 hash = "49dd0cb83f00b19e53106ee32b49a1666a0c816e4145e2c37d6d83df6c5e8ef7"
+
+[[files]]
+file = "mods/overevaluate-1.0.0.jar"
+hash = "1fc78a5cae9787db170457f4e80addf2feec132a0b6211dfa24776849d6d52ac"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -1172,6 +1249,10 @@ hash = "c64a8fbf1392d22d2bc2dd13d5b09304210aefc033d371ab4276e75cc10d56ae"
 metafile = true
 
 [[files]]
+file = "mods/scryglass-1.0.0.jar"
+hash = "4d8fc1ee538067e56127be22c116dbeba247b2644c335d3f528aa83482c1f537"
+
+[[files]]
 file = "mods/sea_weapons-1.1.2.jar"
 hash = "6e4342e59421af5585e0fa0986e65eabac4a7ec1f0b0bdea10bf89063e49e585"
 
@@ -1193,6 +1274,11 @@ metafile = true
 [[files]]
 file = "mods/simple-uncrafting-table-fabric.pw.toml"
 hash = "3d445a73b098f2a21f2da3443c47e060977a2791161a737d96299213bb401160"
+metafile = true
+
+[[files]]
+file = "mods/slate-works.pw.toml"
+hash = "bc861d32338c0e26f9b064d0025861c00e2efbd05606754e665a205e7e85dd28"
 metafile = true
 
 [[files]]
