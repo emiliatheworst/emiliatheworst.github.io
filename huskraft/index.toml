@@ -1137,8 +1137,8 @@ hash = "584595e1158cb5fdc21c551f16cb8572437f3bd0e356a8583e3ce12124e29427"
 metafile = true
 
 [[files]]
-file = "mods/oneironaut-fabric-1.20.1-0.5.0-mixincrashfix.jar"
-hash = "ae0c63d3e6d168000cd045e2779902e5fffd18502d9e7d27a89faadfe89ab760"
+file = "mods/oneironaut-fabric-1.20.1-0.5.0-aaaaaaagh.jar"
+hash = "cd76fe622749d214ed8b527b194b3276efa4d0e0194d0d50f107d5da10120a2d"
 
 [[files]]
 file = "mods/open-loader.pw.toml"
