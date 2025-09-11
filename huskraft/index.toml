@@ -766,6 +766,11 @@ hash = "588748702783f4d0128453db7bbf18e11b373ca854bbeded43584575920c0c33"
 metafile = true
 
 [[files]]
+file = "mods/gravity-api-fork.pw.toml"
+hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
+metafile = true
+
+[[files]]
 file = "mods/growableores.pw.toml"
 hash = "fcdd1516efe564f600fb9978ca869ba0287985e808a9a0bcaa7b106e0dbf1598"
 metafile = true
@@ -859,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-revolution.pw.toml"
 hash = "adacdb4be2a9d80bc4854479961298015c595f65af74115198cb884c1fb4cddb"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "912cd2e2c24b766f3273d569b7c054c9b444bf13d4c8f0414e07347b44494e09"
 metafile = true
 
 [[files]]
@@ -1156,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "12216fa20f72f411ba04636f58a712e925f0ed8c219e140a977a1a95d7fd6ccf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "de40d3845dd5c1fc91b618bb5e99662b5a5b9805b3b0e4ee345221dac62e8ece"
 metafile = true
 
 [[files]]
