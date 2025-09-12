@@ -897,16 +897,6 @@ hash = "5ba2284b2c396c0089b2891f1553b6cd81fec685171bb549c316e3c014a1741f"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-fabric.pw.toml"
-hash = "d818cd6c37a5c2d0d06a79e5b251d608b2f3b70e163c9edc79ab9fd86b9c4b03"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "910fa36384741dbc199805f0afde8f5ef06940d1a74d1d737b7bc1048c58916f"
-metafile = true
-
-[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
 metafile = true
@@ -919,6 +909,11 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "e38066f41fc7812959cdb9f1c57c00d0e115219cfb307f921e3dfe796951c236"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "13b13d7612b7aa88f00e24b6b3e412a99b1851f967dcef3401c3debb68539eac"
 metafile = true
 
 [[files]]
@@ -1154,11 +1149,6 @@ metafile = true
 [[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0-aaaaaaagh.jar"
 hash = "cd76fe622749d214ed8b527b194b3276efa4d0e0194d0d50f107d5da10120a2d"
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "7536a88d4bc98d753d59b95bc097d2f0970fa0c0b0243ab83eaf426cb0abb471"
-metafile = true
 
 [[files]]
 file = "mods/optigui-2.3.0-beta.6.1-modrinth+1.20.jar"
