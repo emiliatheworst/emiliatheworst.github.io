@@ -522,6 +522,11 @@ hash = "296c7ea4c05bd5aacc283675f61fbb5d4f047c64d819e48f86e9cf65e5d8a75f"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "73bb23af9452a63aad6eeb7a1867f3cbd58d849294d9e47e452a05297426b677"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
 metafile = true
