@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "62eee72c3a020fa7e20ddb186d6831b2a8561ab8f1345b0e3bf1d3fa5322ce90"
+hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
@@ -644,6 +644,11 @@ hash = "9652798b0045301905be00b4bff8c4ded2e8e18c60bcc0bee7521d78f452d7ad"
 metafile = true
 
 [[files]]
+file = "mods/estrogen.pw.toml"
+hash = "7822d0f2f3af1601280a5c97d2875376a40e1b789ba3b839d4ab6fa610c06277"
+metafile = true
+
+[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "b3aa3212c74a98698f6c9543d37740328f4dd9a93dbb9169cb1a54adae3adec7"
 metafile = true
@@ -942,6 +947,11 @@ hash = "4b3272525bec600eee7ac29e4a2e794425885d9c287814af314b17e550761982"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "6ddcd0fc3f9c53f064f1deb0f6c5898324249e22f4526ad3c7b910d7d16b8def"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "39d1aa66bf641027827a4bfcfe2c088ad6506405b0ff603fd65b1a9828d40c94"
 metafile = true
@@ -1009,6 +1019,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "3b3f3e6eea10c185d465b8c0bc887a5ef559d2b035ecdd3b197dec3a5a5465ae"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -1250,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "a716c1404c8efc8fc3c5dc9301253cb2b606ded2062d601b8e237e2266b7cd81"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
