@@ -862,6 +862,11 @@ hash = "f648258a8cb2c6600186f31955b0b94cf2152eef15d16fc1733cd7283e36f14c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "fde9fdafbd9090593970fb8b04e63fd9a727e773b2fc74427f0bf25c25291fdf"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "0788537b03122131065eb41556a2cadb4660b2ba7cd2567b7ac85d209876c218"
 metafile = true
