@@ -180,6 +180,11 @@ file = "mods/balm-fabric-1.20.1-7.3.33.jar"
 hash = "44d4c3f97355f0d4a64561176d130903bbad447fed7d64c16c4e1d6347c7b67c"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "0da190f5483a9d0acdc773de512e6d7b5fdebacde7e4ca0e432c4c7c02fcc573"
+metafile = true
+
+[[files]]
 file = "mods/bbrb.pw.toml"
 hash = "3e95556edb31adc2ed78df78f127cdc49afb5bbc0850665aa9d431a7eb452905"
 metafile = true
@@ -1131,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix-fabric-1.20-13.0.2.jar"
 hash = "deb3bd7b9121e17b9ee4770b3ab4c3a5c80d40b3311d4c0edb69e4629eb38683"
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "9ddc3eedab474db23c8b0c3e7c2beb538ad95762da69fe68d512c681d98fa76e"
+metafile = true
 
 [[files]]
 file = "mods/niceclocks-1.1.jar"
