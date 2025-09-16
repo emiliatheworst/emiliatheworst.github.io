@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "296c7ea4c05bd5aacc283675f61fbb5d4f047c64d819e48f86e9cf65e5d8a75f"
+hash = "abf81146bd56e930752eb9d5378c290087c35906a0937d18ae82d2b7918949c6"
 metafile = true
 
 [[files]]
@@ -908,7 +908,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
+hash = "08593b4f22205b8a239879f383bbd71601522573b2ee9beb26ad1cbe96c86236"
 metafile = true
 
 [[files]]
@@ -1532,12 +1532,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "44e64dbb7f95c2ee2caf437dc9fe0755176badc19f4453a78291dd49746edd57"
+hash = "5f99b1ab8493160a46cbb70e888cfb44e0593d56421016d604aa7d39e23c5684"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "33d2f0583171ecd90451a5da5e8f827a352fa69d0cd55f51ff2f21845a1f81d9"
+hash = "8ae3a4c54c3744e3381ca4b0b6b6683b2f38ca9bc87a703b2702b2be260444cc"
 metafile = true
 
 [[files]]
