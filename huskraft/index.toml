@@ -1434,6 +1434,11 @@ file = "mods/tffaf-alpha-7-1.20.1.jar"
 hash = "cb62b44156c7624eae00cf0571ec0f8b1ee0b0134ab4be6969ceff932d2fd710"
 
 [[files]]
+file = "mods/the-ancient-trinkets-index.pw.toml"
+hash = "93199d8f73b271be9037d06f9ad418c3022754a16548482d5bc1dbefaac1c652"
+metafile = true
+
+[[files]]
 file = "mods/things-fabric.pw.toml"
 hash = "69de4325ba4dfcf9dca1b78f54f2aed2a1f47d6353644065b88a2404cfb153a9"
 metafile = true
