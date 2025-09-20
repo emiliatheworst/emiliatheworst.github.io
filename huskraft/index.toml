@@ -917,6 +917,11 @@ hash = "5ba2284b2c396c0089b2891f1553b6cd81fec685171bb549c316e3c014a1741f"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "fa764b3acee55fd5708fd3b96128861f0c04ccd8752643626b790ae5d6215ee8"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
 metafile = true
@@ -1281,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/restore-chat-links.pw.toml"
+hash = "26347d377e1031a9ca0a1064b1b95498d400ad301a7d0f0e9234e46fe36c5bd4"
 metafile = true
 
 [[files]]

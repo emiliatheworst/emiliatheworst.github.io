@@ -1,0 +1,13 @@
+name = "Restore Chat Links"
+filename = "RestoreChatLinks-0.2.4+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSFEqmU6/versions/xx7pP6Yr/RestoreChatLinks-0.2.4%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "e8fde6302ef0540c167baed3ee384088d2dfd465"
+
+[update]
+[update.modrinth]
+mod-id = "QSFEqmU6"
+version = "xx7pP6Yr"
