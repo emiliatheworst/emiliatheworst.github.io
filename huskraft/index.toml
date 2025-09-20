@@ -1134,6 +1134,11 @@ hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
+metafile = true
+
+[[files]]
 file = "mods/netherite-horse-armor.pw.toml"
 hash = "85a50f03023f35ece3d826979f2888ffafd1b16b2aae8cce1b650d7828996efa"
 metafile = true
